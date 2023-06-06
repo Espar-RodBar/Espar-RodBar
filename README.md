@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a style="display:inline">
+  <a style="padding: 5px 15px">
   <span>CSS3 </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
