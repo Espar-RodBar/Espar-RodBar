@@ -8,15 +8,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex">
-  <p style="display:inline">
+<div>
+  <a style="display:inline">
   <span>CSS3 </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </p>
-  <p style="display:inline">
+  </a>
+  <a style="display:inline">
   <span>Express </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </p>
+  </a>
   <p style="display:inline">
   <span>Git </span>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
