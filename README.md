@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Espartaco Rodríguez</h1>
-<h3 align="center">FullStack Developer in Barcelona (Spain)</h3>
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;" alt="Hello i'm Espartaco, fullstack developer">
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
