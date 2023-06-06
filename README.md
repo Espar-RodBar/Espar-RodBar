@@ -1,4 +1,4 @@
-<div style="width: 100%;">
+<div style="width: 100%; height: 100px">
   <img src="header.svg" style="width: 100%;" alt="Hello i'm Espartaco, fullstack developer">
 </div>
 
