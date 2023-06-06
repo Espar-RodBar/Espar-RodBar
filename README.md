@@ -9,11 +9,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a style="padding: 5px 15px">
+  <a>
   <span>CSS3 </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <a style="display:inline">
+  <a>
   <span>Express </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
