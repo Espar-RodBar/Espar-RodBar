@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
+<p align="center">
   <a style="display:inline">
   <span>CSS3 </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -45,7 +45,7 @@
   <span>Sass </span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a>
-</div>
+</p>
 
 
 <!--
