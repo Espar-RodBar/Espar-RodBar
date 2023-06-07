@@ -22,6 +22,9 @@
             width:100px;
             justify-content:center;
             align-items:center;
+          padding: 5px;
+            border: 1px solid gold;
+            border-radius:10px;
         }
         .skill > span{
             padding: 5px;
