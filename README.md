@@ -2,7 +2,6 @@
   <img src="header.svg" style="width: 100%;" alt="Hello i'm Espartaco, fullstack developer">
 </div>
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/espar_rodbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="espar_rodbar" height="30" width="40" /></a>
